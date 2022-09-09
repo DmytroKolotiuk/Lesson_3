@@ -1,0 +1,36 @@
+body {
+	background-color: antiquewhite;
+}
+
+.block {
+	background-color: green;
+}
+
+.warning {
+	background-color: aqua;
+}
+
+.text {
+	color: rgb(161, 121, 74);
+}
+
+mark {
+	background-color: aquamarine;
+}
+
+#counties {
+	background-color: blueviolet;
+}
+
+#first {
+	background-color: sienna;
+}
+
+ol {
+	color: black;
+	background-color: sandybrown;
+}
+
+.red {
+	color: red;
+}
